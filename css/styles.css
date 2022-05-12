@@ -395,18 +395,20 @@ p, h1, h2, h3, h4, h5, h6, ul {
 .item-adress-phone {
     color: #ffffff99;
 }
-.adress-container {
+.footer-contacts {
     font-weight: 400;
     list-style: none;
     line-height: 1.71;
     letter-spacing: 0.03em;
 }
+
 .footer> .container {
     display: flex;
     align-items: flex-start;
 }
 .footer .adress-container {
     margin-right: 70px;
+    
 }
 .footer .follow-us-container {
     padding-top: 12px;
@@ -416,6 +418,7 @@ p, h1, h2, h3, h4, h5, h6, ul {
 .footer .follow-us-container .social-link {
     background-color: rgba(255, 255, 255, 0.1);
     border-radius: 50%;
+    fill: #FFFFFF;
 }
 .footer .subtitle-1 {
     color: #FFFFFF;
